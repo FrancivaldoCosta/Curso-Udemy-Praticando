@@ -7,6 +7,7 @@ import util.Calculator;
 
 public class Program {
 	
+	public static final double PI = 14159;
 	
 	public static void main(String[] args) {
 		
