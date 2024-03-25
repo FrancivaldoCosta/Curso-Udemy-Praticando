@@ -7,7 +7,7 @@ import util.Calculator;
 
 public class Program {
 	
-	public static final double PI = 14159;
+
 	
 	public static void main(String[] args) {
 		
@@ -22,7 +22,7 @@ public class Program {
 		
 		double v = calc.volume(radius);
 
-		System.out.printf("Circunference: %.2f%n", c );
+		System.out.printf("circumference: %.2f%n", c );
 		System.out.printf("Volume: %.2f%n", v);
 		System.out.printf("PI value: %.2f%n", calc.PI);
 		
